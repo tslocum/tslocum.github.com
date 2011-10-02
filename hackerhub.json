@@ -1,0 +1,35 @@
+{
+	"settings" : {
+		"id" : "trevor",
+		"name" : "Trevor Slocum",
+		"avatar" : "http://www.gravatar.com/avatar/98d92490cad64c8ff544b4ec3a0482cd?s=200",
+		"disqus_shortname" : "tslocum",
+		"enable_search" : true
+	},
+	"content" : {
+		"article" : {
+			"title" : "Start here!",
+			"content" : "http://hackerhub.org/template/article.md"
+		},
+		"blog" : {
+			"title" : "A Blog",
+			"type" : "blog",
+			"content" : {
+				"second": {
+					"created" : "2011-09-17",
+					"content" : "http://hackerhub.org/template/second.md"
+				},
+				"f1rst" : {
+					"created" : "17.09.2011",
+					"content" : "http://hackerhub.org/template/first.md"
+				}
+			}
+		},
+		"hackernews" : {
+			"title" : "Hacker News",
+			"type" : "rss",
+			"show_description" : false,
+			"content" : "http://news.ycombinator.com/rss"
+		},
+	}
+}
