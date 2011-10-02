@@ -30,6 +30,6 @@
 			"type" : "rss",
 			"show_description" : false,
 			"content" : "http://news.ycombinator.com/rss"
-		},
+		}
 	}
 }
